@@ -1,0 +1,67 @@
+{
+  "ApplicationVersion": "4.2.1.0",
+  "UserName": "red",
+  "Date": "2026-06-09 18:12",
+  "FormSettings": {
+    "DimensionsWithColumnsInfo": {
+      "scen_model_framework": {
+        "Select": 20,
+        "Name": 254
+      },
+      "period": {
+        "Select": 20,
+        "Name": 183
+      },
+      "processset": {
+        "Select": 20,
+        "Name": 50,
+        "Description": 50
+      },
+      "attribute": {
+        "Select": 20,
+        "Name": 70,
+        "Description": 114
+      },
+      "process": {
+        "Select": 20,
+        "Name": 123,
+        "Description": 57
+      },
+      "scenario": {
+        "Select": 20,
+        "Name": 196
+      },
+      "commodityset": {
+        "Select": 20,
+        "Name": 50,
+        "Description": 50
+      },
+      "userconstraint": {
+        "Select": 20,
+        "Name": 92,
+        "Description": 92
+      },
+      "vintage": {
+        "Select": 20,
+        "Name": 50
+      },
+      "region": {
+        "Select": 20,
+        "Name": 196
+      },
+      "commodity": {
+        "Select": 20,
+        "Name": 98,
+        "Description": 86
+      },
+      "timeslice": {
+        "Select": 20,
+        "Name": 198
+      },
+      "studyname": {
+        "Select": 20,
+        "Name": 165
+      }
+    }
+  }
+}
